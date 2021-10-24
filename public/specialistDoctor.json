@@ -8,12 +8,12 @@
     "doctor_url": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
-    "name": "Prof.Dr.Zehad Khan",
-    "subject": "Heart specialist",
-    "qualification": "MCPS, FCPS, FRCP (Glasgow), FACC (USA)",
-    "time": "7.00 PM to 8.30 PM, Friday Closed",
+    "name": "Professor Dr. Md. Zahid Reza",
+    "subject": "Medicine",
+    "qualification": "MRCP (UK), FRCP (London).",
+    "time": "4.00 PM to 7.30 PM, Friday Closed",
     "id": 2,
-    "doctor_url": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+    "doctor_url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/s403x403/98353177_245301556784962_3212190630335741952_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=aee45a&_nc_ohc=WVLE68-4SLwAX9Sa8S0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=5752d0179f27743c63ed726bddfc38e5&oe=619B662C"
   },
   {
     "name": "Dr. Sakina Anwar",
@@ -24,12 +24,12 @@
     "doctor_url": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
   },
   {
-    "name": "Professor Dr. Md. Lutful Kabir",
-    "subject": "Medicine",
-    "qualification": "MRCP (UK), FRCP (London).",
-    "time": "4.00 PM to 7.30 PM, Friday Closed",
+    "name": "Prof.Dr.Zehad Khan",
+    "subject": "Heart specialist",
+    "qualification": "MCPS, FCPS, FRCP (Glasgow), FACC (USA)",
+    "time": "7.00 PM to 8.30 PM, Friday Closed",
     "id": 4,
-    "doctor_url": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg"
+    "doctor_url": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
   },
   {
     "name": "Professor Dr. Masuda Begum Ranu",
