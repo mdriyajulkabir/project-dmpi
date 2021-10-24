@@ -15,9 +15,6 @@ const ProjectMembers = () => {
     return (
         <div>
             <Header></Header>
-            <h1>Bitch</h1>
-            
-
 <Carousel className='container h-25 w-75'>
   <Carousel.Item>
     <img
@@ -109,10 +106,6 @@ const ProjectMembers = () => {
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
-
-<br /><br /><br />
-
-{/* <img src={toma} height='300px' width='500px' alt="" /> */}
 
 
 
